@@ -21,7 +21,7 @@ public class App {
         // Imprimindo os detalhes do veículo e do fabricante
         veiculo1.imprimirveiculo();
         
-
+ 
     }
 
 
