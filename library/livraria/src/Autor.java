@@ -79,4 +79,13 @@ public void setCidade(String cidade) {
         }
         return null;
     }
+
+ @Override
+    public String toString() {
+        return "ID: " + id + ", Nome: " + nome + ", Cidade: " + cidade;
+    }
+
+
+
 }
+
